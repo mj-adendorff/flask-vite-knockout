@@ -1,0 +1,4 @@
+statics/dist/
+statics/node_modules/
+venv/
+statics/package-lock.json
